@@ -48,12 +48,6 @@
         "expirydate": "30-12-2025",
         "Allowoffline": false
     },
-     {
-        "device_id": "510c0a524ef289c0",
-        "key": "83e96af6d22",
-        "expirydate": "-12-2025",
-        "Allowoffline": false
-    },
        {
         "device_id": "ddd97c4814807090",
         "key": "33e4f6273be",
@@ -61,13 +55,13 @@
         "Allowoffline": false
     },
      {
-        "device_id": "b6671678b96e6621",
-        "key": "6ab9b3d4499",
-        "expirydate": "26-12-2025",
+        "device_id": "510c0a524ef289c0",
+        "key": "6ab9b3d449",
+        "expirydate": "09-01-2026",
         "Allowoffline": false
     },
        {
-        "device_id": "78528d3152bd541a",
+        "device_id": "trail",
         "key": "e8c523442b",
         "expirydate": "25-12-2025",
         "Allowoffline": false
