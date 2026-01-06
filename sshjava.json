@@ -142,14 +142,14 @@
     {
         "device_id": "8083e6b0e8e13987",
         "key": "97295f305b",
-        "expirydate": "5-02-2026",
+        "expirydate": "05-02-2026",
         "Allowoffline": false
     } ,
 
     {
-        "device_id": "device123",
+        "device_id": "94ae65ef31b7daa7",
         "key": "8a1fcda896",
-        "expirydate": "31-02-2026",
+        "expirydate": "05-02-2026",
         "Allowoffline": false
     },
     {
